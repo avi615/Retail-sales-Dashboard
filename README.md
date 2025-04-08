@@ -1,3 +1,6 @@
+
+RETAIL SALES REPORT
+
 The Retail Sales Dashboard is a Business Intelligence (BI) tool designed to provide insights into sales performance, product trends, customer behavior, and regional analysis.
 It enables stakeholders to make data-driven decisions and optimize business operations.
 Sales Overview: Displays total sales, profit, and orders over time.
